@@ -1,2 +1,2 @@
 # Coursera-Machine-Learning-Stanford
-Assignment Solution
+This repo. content all assignment solution of Machine learning course on Coursera
